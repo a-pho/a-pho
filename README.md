@@ -1,4 +1,5 @@
-### Hi there 👋
+## 이름 : 이정민
+
 
 <!--
 **a-pho/a-pho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
